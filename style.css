@@ -260,8 +260,9 @@ main.sign-up-mode .carousel {
 
 .text-wrap {
   max-height: 2.2rem;
-  overflow: hidden;
-  margin-bottom: 2.5rem;
+  overflow: visible;
+  padding: 0 1rem;
+  margin-bottom: 1rem;
 }
 
 .text-group {
